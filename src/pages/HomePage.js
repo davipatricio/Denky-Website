@@ -11,7 +11,6 @@ import DenkyImage from '../images/Denky.png'
 
 import AboutPage from './AboutPage'
 import ReasonPage from './ReasonPage'
-import Footer from '../components/Footer'
 
 const useStyles = makeStyles((theme) => ({
   root: {
