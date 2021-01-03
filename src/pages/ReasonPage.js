@@ -53,10 +53,10 @@ function ReasonPage() {
           </Typography>
           <Divider />
           <Typography variant="h6" className={classes.text}>
-            O Bot sempre tem atualizações, 
-            recebendo cada vez mais novidades,
-            e sempre olhando as sugestões do usuários
-            que utilizam o Bot!
+            Denky sempre recebe atualizações, 
+            com cada vez mais novidades,
+            sempre estamos vendo sugestões dos usuários
+            que utilizam o bot diariamente!
           </Typography>
         </Paper>
         <Paper className={classes.paper}>
@@ -65,10 +65,11 @@ function ReasonPage() {
           </Typography>
           <Divider />
           <Typography variant="h6" className={classes.text}>
-            O Bot possui uma qualidade extremamente boa,
-            não demora para responder, possuí ótimos sistemas
-            para ajudar na segurança do seu servidor, e 
-            comandos para divertir o servidor!
+            Denky possui uma ótima qualidade extremamente,
+            diferentemente de outros bots.
+            Respostas rápidas, diversos sistemas
+            úteis, para ajudar na segurança e automação do seu servidor, além 
+            de mais de <strong>100 comandos</strong> para usar gratuitamente!
           </Typography>
         </Paper>
         <Paper className={classes.paper}>
@@ -78,9 +79,8 @@ function ReasonPage() {
           <Divider />
           <Typography variant="h6" className={classes.text}>
              Possuímos um servidor de suporte,
-             onde olhamos as sugestões, dicas,
-             bugs, para melhorar o Bot, seja resolvendo
-             bugs ou até mesmo adicionando novas funções!
+             onde olhamos todas as sugestões, dicas,
+             denuncias bugs, sempre com o intuito de melhorar o Bot.
           </Typography>
         </Paper>
       </Grid> 
