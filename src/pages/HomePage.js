@@ -71,9 +71,9 @@ function HomePage() {
                 Denky
               </Typography>
               <Typography variant="h5" style={{ paddingTop: '10px' }}>
-                Olá, sou Denky, o Bot do Discord multifuncional<br />
+                Olá, sou Denky, um Bot para Discord multifuncional<br />
                 com o único objetivo de moderar seu servidor e <br />
-                trazer a alegria a todos!
+                trazer automação e diversão!
               </Typography>
               <Button
                 variant="contained"
