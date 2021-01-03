@@ -96,12 +96,12 @@ function Footer() {
         </Grid>
         <Grid item sm={12} lg={3} className={classes.grid}>
           <Typography variant="h4" className={classes.title}>
-              Créditos
+              Reconhecimentos
           </Typography>
           <Divider />
           <Typography variant="h5" className={classes.subtitle}>
-            Bot by Davi Patricio#0001 <br />
-            &lt;/&gt; by patek#0001
+            Bot plr Davi Patricio#0311 <br />
+            &lt;/&gt; por patek#0001
           </Typography>
         </Grid>
       </Grid>
