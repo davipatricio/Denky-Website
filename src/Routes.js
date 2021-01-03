@@ -37,6 +37,9 @@ function Routes({ setDarkMode, darkMode }) {
           <Route exact path="/support">
             {redirectToSupport}
           </Route>
+          <Route exact path="/discord">
+            {redirectToSupport}
+          </Route>
           <Route path="/" component={HomePage} />
         </Switch>
       </Router>
