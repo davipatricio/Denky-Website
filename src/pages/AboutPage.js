@@ -32,19 +32,35 @@ function AboutPage() {
           Recursos
         </Typography>
         <Typography variant="h5">
-          ✉️ Suporte em nosso servidor de suporte <br />
-          🎉 Sorteios (Giveaways) <br />
-          🇫🇷 Vários idiomas (português, inglês) <br />
-          💁 Anti Spam, Anti Flood, Anti Emoji Spam & Anti Menções em Massa <br />
-          ⚙️ Configuração do Servidor (comandos ignorados, anti-convites, etc ...) <br />
-          ❌ Prefixo personalizável <br />
-          🔧 Auto Crosspost, Reaction Roles, Auto Role & Auto Moderação <br />
-          🐶 Fotos de Animais <br />
-          🎮 Estatísticas de Jogos <br />
-          🎉 Utilitades <br />
-          😂 Diversão <br />
-          ⏰ Lembretes <br />
-          😲 Edição de Texto <br />
+          ✉️ Suporte em nosso servidor de suporte
+
+🔔 Anúncios
+
+💡 Sistema de Sugestões
+
+🎉 Giveaways / Sorteios
+
+🤑 Sistema de Tickets
+
+🇫🇷 Multiplos idiomas (Português e Inglês)
+
+⚙️ Moderação (slowmode, ban, kick, softban, limpar, warn, warns, warn config)
+
+💁 **Anti Spam, Anti Flood**, Anti Emoji Spam, Anti Mass Mentions, **Anti Mass Ban** e **Anti Mass Kick**.
+
+😍 Prefixo alterável
+
+🔧 Reaction Roles, Auto Role & Auto Mod (auto moderação)
+
+😎 Anti convites e Anti Links
+
+🎮 Informações sobre jogos
+
+🎉 Utilidades, denuncias
+
+⏰ Lembretes / timers
+
+😲 Edição de Texto
         </Typography>
       </div>
     </div>
