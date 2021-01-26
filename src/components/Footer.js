@@ -100,7 +100,7 @@ function Footer() {
           </Typography>
           <Divider />
           <Typography variant="h5" className={classes.subtitle}>
-            Bot plr Davi Patricio#0311 <br />
+            Bot por Davi Patricio#0311 <br />
             &lt;/&gt; por patek#0001
           </Typography>
         </Grid>
