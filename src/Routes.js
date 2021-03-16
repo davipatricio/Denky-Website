@@ -7,7 +7,6 @@ import {
 
 import Footer from "./components/Footer";
 import TopBar from './components/TopBar'
-
 import HomePage from "./pages/HomePage";
 
 function redirectToAdd() {
@@ -45,7 +44,7 @@ function Routes({ setDarkMode, darkMode }) {
             {redirectToSupport}
           </Route>
           <Route exact path="/embed">
-            {redirectToSupport}
+            {redirectToEmbed}
           </Route>
           <Route path="/" component={HomePage} />
         </Switch>
