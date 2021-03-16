@@ -7,7 +7,6 @@ import {
 
 import Footer from "./components/Footer";
 import TopBar from './components/TopBar'
-
 import HomePage from "./pages/HomePage";
 
 function redirectToAdd() {
