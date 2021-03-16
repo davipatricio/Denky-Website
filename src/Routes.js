@@ -18,6 +18,10 @@ function redirectToVote() {
   window.open("https://top.gg/bot/704517722100465746", "_self")
 }
 
+function redirectToEmbed() {
+  window.open("https://davipatricio.github.io/denky-embed-gen/index.html", "_self")
+}
+
 function redirectToSupport() {
   window.open("https://discord.gg/bVWdscg", "_self")
 }
@@ -38,6 +42,9 @@ function Routes({ setDarkMode, darkMode }) {
             {redirectToSupport}
           </Route>
           <Route exact path="/discord">
+            {redirectToSupport}
+          </Route>
+          <Route exact path="/embed">
             {redirectToSupport}
           </Route>
           <Route path="/" component={HomePage} />
