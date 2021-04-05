@@ -10,7 +10,7 @@ import TopBar from './components/TopBar'
 import HomePage from "./pages/HomePage";
 
 function redirectToAdd() {
-  window.open("https://discord.com/oauth2/authorize?client_id=704517722100465746&scope=bot&permissions=1346759886", "_self")
+  window.open("https://discord.com/oauth2/authorize?client_id=704517722100465746&scope=bot+applications.commands&permissions=1346759886", "_self")
 }
 
 function redirectToVote() {
